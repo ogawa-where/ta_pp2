@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./.github/logo.svg" width="120" alt="PP2 TA">
-</p>
-
 <h1 align="center">PP2 TA</h1>
 
 <p align="center">
