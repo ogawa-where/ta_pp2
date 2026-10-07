@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.svg" width="120" alt="PP2 TA">
+  <img src="./.github/logo.svg" width="120" alt="PP2 TA">
 </p>
 
 <h1 align="center">PP2 TA</h1>
