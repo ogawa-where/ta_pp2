@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.10-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.10"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.12.3-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.12.3"></a>
   <a href="https://github.com/yamasound/pp2"><img src="https://img.shields.io/badge/course-yamasound%2Fpp2-7c3aed?style=flat-square&logo=github&logoColor=white" alt="Course"></a>
   <a href="#-schedule"><img src="https://img.shields.io/badge/tue-14%3A30_JST-2563eb?style=flat-square" alt="Schedule"></a>
 </p>
