@@ -5,7 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.10-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.10"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.12.3-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.12.3"></a>
+  <a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/os-linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"></a>
+  <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/ubuntu-24.04-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu 24.04"></a>
+  <a href="https://www.gnu.org/software/emacs/"><img src="https://img.shields.io/badge/emacs-29.3-7F5AB6?style=flat-square&logo=gnuemacs&logoColor=white" alt="Emacs 29.3"></a>
   <a href="https://github.com/yamasound/pp2"><img src="https://img.shields.io/badge/course-yamasound%2Fpp2-7c3aed?style=flat-square&logo=github&logoColor=white" alt="Course"></a>
   <a href="#-schedule"><img src="https://img.shields.io/badge/tue-14%3A30_JST-2563eb?style=flat-square" alt="Schedule"></a>
 </p>
@@ -16,7 +19,7 @@
 
 <p align="center"><sub>2026/10 〜 2027/01 ・ 毎週火曜 14:30〜（JST）</sub></p>
 
-<p align="center"><code>▓▓░░░░░░░░░░░░░</code>　2 / 15 回</p>
+<p align="center"><code>▓▓▓░░░░░░░░░░░░</code>　3 / 15 回</p>
 
 <div align="center">
 
@@ -24,7 +27,7 @@
 | :---: | :---: | :---: | :---: |
 | **01** | `10/06` | 📂 [**demonstration**](./w01_demonstration/) | |
 | **02** | `10/13` | 📂 [**pypdf2**](./w02_pypdf2/)<br>📂 [**docx**](./w02_docx/) | 🚫 TA不在 |
-| **03** | `10/20` | — | |
+| **03** | `10/20` | 📂 [**re**](./w03_re/) | |
 | **04** | `10/27` | — | |
 | **05** | `11/10` | — | |
 | **06** | `11/17` | — | |
