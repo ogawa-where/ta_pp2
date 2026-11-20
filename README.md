@@ -19,7 +19,7 @@
 
 <p align="center"><sub>2026/10 〜 2027/01 ・ 毎週火曜 14:30〜（JST）</sub></p>
 
-<p align="center"><code>▓▓▓▓▓▓░░░░░░░░░</code>　6 / 15 回</p>
+<p align="center"><code>▓▓▓▓▓▓▓░░░░░░░░</code>　7 / 15 回</p>
 
 <div align="center">
 
@@ -31,7 +31,7 @@
 | **04** | `10/27` | 📂 [**pyinputplus**](./w04_pyinputplus/) | |
 | **05** | `11/10` | 📂 [**pathlib**](./w05_pathlib/) | |
 | **06** | `11/17` | 📂 [**logging**](./w06_logging/) | |
-| **07** | `11/24` | — | 🚫 TA不在 |
+| **07** | `11/24` | 📂 [**web_scraping**](./w07_web_scraping/) | 🚫 TA不在 |
 | **08** | `12/01` | — | |
 | **09** | `12/08` | — | |
 | **10** | `12/15` | — | |
